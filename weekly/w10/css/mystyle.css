@@ -3,8 +3,9 @@
 
 #gallery {
 	width:490px;
-	background-color:#F00;
-	padding:5px;
+	background-color: cadetblue;
+	padding: 5px;
+	margin:0 auto;
 }
 
 #gallery img {
