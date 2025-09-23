@@ -1,0 +1,58 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+
+  font-family: "Stoke", serif;
+  font-weight: 400;
+  font-style: normal;
+	line-height: 1.5em;
+	margin: 0 10%;
+}
+
+.week2 {
+	width:45%;
+	Margin-right:5%;
+		float:left;
+}
+
+#project {
+	width:45%;
+	float:left;
+}
+h1 {
+  font-family: "SUSE Mono", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+	line-height: 1.8em;
+}
+
+h2 {
+	font-family: envelove, sans-serif;
+}
+a:link {
+	text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+	color:saddlebrown;
+}
+
+a:hover {
+  text-decoration: underline;
+	color:chartreuse;
+	font-weight: bold;
+}
+
+a:active {
+  text-decoration: underline;
+	color:chocolate;
+}
+
+.spandemo {
+	color:burlywood;
+	font-style: italic;
+}
+

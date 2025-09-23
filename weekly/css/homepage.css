@@ -1,0 +1,53 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+  font-family: "SUSE Mono", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+	line-height:1.6em;
+	background-color:beige;
+}
+
+#wrapper{
+	margin-left: 5%;
+	background-color:cornsilk;
+	float:left;
+}
+h1 {
+	font-family: am-novecento, sans-serif;
+}
+
+a:link {
+	color:darkblue;
+	text-decoration:none;
+}
+a:visited{
+	color:darkmagenta;
+}
+a:hover {
+	color:chartreuse;
+	text-decoration:underline;
+}
+
+a:active {
+	color:burlywood;
+}
+
+.week2{
+	width:45%;
+	float:left;
+	margin: 0 5%;
+}
+
+#project {
+	width:45%;
+	float:left;
+}
+
+.demo {
+  font-weight: 100;
+  font-style: italic;
+	color:brown;
+}
