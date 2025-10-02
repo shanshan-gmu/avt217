@@ -1,0 +1,32 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.container {
+	width:80%;
+	margin: 0 auto;
+	position:relative;
+}
+
+img {
+	width:100%;
+	height:auto;
+}
+
+.box1{
+	position: absolute;
+	bottom: 8px;
+	left:16px;
+	background-color:blanchedalmond;
+}
+
+.box2 {
+	position:fixed;
+	top: 2px;
+	left:16px;
+	background-color:aquamarine;
+	padding: 10px 20px;
+}
+
+.insidebox2 {
+	background-color: burlywood;
+}
